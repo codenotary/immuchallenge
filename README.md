@@ -43,7 +43,7 @@ Our panel is comprised of Jerónimo Irázabal, immudb maintainer and project man
 
 The two winners of the competition will be announced on this page on December 22nd, 2020. We will select the best data models based on design decisions, implementation and performance as well as overall code quality. 
 
-Feel free to also share your approach, testing, and/or anything interesting you have learned in the #immuchallenge channel in [slack](open-immutability.slack.com). 
+Feel free to also share your approach, testing, and/or anything interesting you have learned in the #immuchallenge channel in [slack](https://open-immutability.slack.com). 
 
 ## Prizes
 
