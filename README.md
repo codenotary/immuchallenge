@@ -9,7 +9,7 @@ Our Open Source immudb immutable datastore builds on the traditional key-value d
 
 ## Instructions
 
-A document data model is composed of identifiable elements which have properties and may be related to other elements in many different ways. For more information about document data models, we've listed some helpful [resources](#More Resources) below.
+A document data model is composed of identifiable elements which have properties and may be related to other elements in many different ways. For more information about document data models, we've listed some helpful [resources](#More-Resources) below.
 
 We expect a minimal functional implementation written in Go (including unit testing) - either fully integrated into immudb or as a standalone component. The new immutable document data model needs to be built on top of the immudb immutable key-value model in order to leverage immutability properties. 
 
@@ -31,7 +31,7 @@ In developing your solution, you'll have to make decisions that are related to:
 
 1. **API** which stores and retrieves documents and provide proof of no tampering 
 2. **Data format** which defines how objects are exchanged between final application and storage 
-3. **Atomicity **at the level of document property, single, or multiple document 
+3. **Atomicity** at the level of document property, single, or multiple document 
 4. **Concurrency** to allow concurrent read and update operations 
 5. **Granularity** of evidence to prove whether a whole document or only the document property is unchanged and untampered
 
