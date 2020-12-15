@@ -35,13 +35,13 @@ In developing your solution, you'll have to make decisions that are related to:
 4. **Concurrency** to allow concurrent read and update operations 
 5. **Granularity** of evidence to prove whether a whole document or only the document property is unchanged and untampered
 
-Please submit your solution via email to challenge@vchain.us before **January 15th, 2021, 0:00AM CST**. All code submitted at a later time, will not be included in our decision process.
+Please submit your solution via email to challenge@vchain.us before **February 15th, 2021, 0:00AM CST**. All code submitted at a later time, will not be included in our decision process.
 
 ## Competition Price Assignment Panel 
 
 Our panel is comprised of Jerónimo Irázabal, immudb maintainer and project manager, Dennis Zimmer, CTO of vChain, and Michele Meloni, immudb core developer.
 
-The two winners of the competition will be announced on this page on January 18th, 2021. We will select the best data models based on design decisions, implementation and performance as well as overall code quality. 
+The two winners of the competition will be announced on this page on February 18th, 2021. We will select the best data models based on design decisions, implementation and performance as well as overall code quality. 
 
 Feel free to also share your approach, testing, and/or anything interesting you have learned in the #immuchallenge channel in [slack](https://open-immutability.slack.com). 
 
