@@ -13,7 +13,7 @@ A document data model is composed of identifiable elements which have properties
 
 We expect a minimal functional implementation written in Go (including unit testing) - either fully integrated into immudb or as a standalone component. The new immutable document data model needs to be built on top of the immudb immutable key-value model in order to leverage immutability properties. 
 
-Below are the commands for getting the immudb Docker image using a Linux shell. You'll find more details about how to download and get started with immudb in our [developer jumpstart](https://docs.immudb.io/jumpstart.html).
+Below are the commands for getting the immudb Docker image using a Linux shell. You'll find more details about how to download and get started with immudb in our [developer jumpstart](https://docs.immudb.io/0.9.0/jumpstart.html).
 
 1. Pull immudb Docker Image from Docker Hub:
 
