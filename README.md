@@ -1,5 +1,9 @@
 # The immudb Coding Challenge - Winter 2020 Edition
 
+```
+  The first immudb Coding Challenge is over!. We're currently reviewing submitted solutions, many thanks to all participants!
+```
+
 <img align="right" src="https://codenotary.io/images/immudb/mascot.png" width="160px" />To all Gophers and data modeling wizards out there: do we have a challenge for you!!
 Today we announce our first #immuchallenge coding competition - Winter 2020 Edition. 
 
