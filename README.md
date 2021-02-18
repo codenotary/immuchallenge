@@ -1,8 +1,14 @@
 # The immudb Coding Challenge - Winter 2020 Edition
 
 ```
-  The first immudb Coding Challenge is over!. We're currently reviewing submitted solutions, many thanks to all participants!
+  The first immudb Coding Challenge is over and we're thrilled by the submissions! Many thanks to all participants and congratulations to the winners!
 ```
+
+## Winners
+
+- 1st place - Oscar Fernandez (https://github.com/oscarpfernandez)
+- 2nd place - Antonio Navarro Perez (https://github.com/ajnavarro/immusql)
+
 
 <img align="right" src="https://codenotary.io/images/immudb/mascot.png" width="160px" />To all Gophers and data modeling wizards out there: do we have a challenge for you!!
 Today we announce our first #immuchallenge coding competition - Winter 2020 Edition. 
