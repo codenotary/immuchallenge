@@ -6,7 +6,7 @@
 
 ## Winners
 
-- 1st place - Oscar Fernandez (https://github.com/oscarpfernandez)
+- 1st place - Oscar Fernandez (https://github.com/oscarpfernandez/immudbcc)
 - 2nd place - Antonio Navarro Perez (https://github.com/ajnavarro/immusql)
 
 
